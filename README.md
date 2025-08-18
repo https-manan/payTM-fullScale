@@ -12,4 +12,4 @@ A web application for secure online payments, money transfers, mobile recharges,
 ## Getting Started
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone hgit remote add origin https://github.com/https-manan/payTM-fullScale.git
